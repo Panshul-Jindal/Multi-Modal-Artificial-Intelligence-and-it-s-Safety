@@ -51,12 +51,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Multi-Modal-Artificial-Intelligence-and-it-s-Safety.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Multi-Modal-Artificial-Intelligence-and-it-s-Safety"
+            }
+          },
+          {
+            "id": "f5557beec1f425d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-24"
             }
           },
           {
@@ -74,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -238,14 +252,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "09a1e63643e53d01",
+  "active": "f5557beec1f425d8",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
-    "Making SI happen in Different Modalities.md",
-    "Underlying Models.md",
-    "Sources.md",
+    "Secret Hider with SI.md",
+    "2026-10-24.md",
+    "Multi-Modal-Artificial-Intelligence-and-it-s-Safety.md",
+    "2026-10-22.md",
     "World Models.md",
-    "Understanding Videos.md"
+    "Underlying Models.md",
+    "Understanding Videos.md",
+    "Untitled.md",
+    "Making SI happen in Different Modalities.md",
+    "Sources.md"
   ]
 }
