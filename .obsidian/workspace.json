@@ -4,91 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "814f86df3765202b",
+        "id": "c6a40abe328387fc",
         "type": "tabs",
         "children": [
           {
-            "id": "b10fdf9ca80c09df",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "272b710d455b368d",
+            "id": "648b0b855054a95b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2026-11-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d7f5b7efd36f0e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Making SI happen in Different Modalities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Making SI happen in Different Modalities"
-            }
-          },
-          {
-            "id": "09a1e63643e53d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-10-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-24"
-            }
-          },
-          {
-            "id": "f5557beec1f425d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret Hider with SI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Secret Hider with SI"
-            }
-          },
-          {
-            "id": "ad379fd80c3958a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Underlying Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Underlying Models"
+              "title": "2026-11-02"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,17 +185,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "09a1e63643e53d01",
+  "active": "648b0b855054a95b",
   "lastOpenFiles": [
-    "Multi-Modal-Artificial-Intelligence-and-it-s-Safety.md",
-    "Secret Hider with SI.md",
-    "Underlying Models.md",
     "2026-10-24.md",
-    "2026-10-22.md",
-    "World Models.md",
+    "2026-11-02.md",
+    "Underlying Models.md",
     "Understanding Videos.md",
-    "Untitled.md",
+    "World Models.md",
+    "Secret Hider with SI.md",
+    "Multi-Modal-Artificial-Intelligence-and-it-s-Safety.md",
     "Making SI happen in Different Modalities.md",
+    "2026-10-22.md",
+    "Untitled.md",
     "Sources.md"
   ]
 }
